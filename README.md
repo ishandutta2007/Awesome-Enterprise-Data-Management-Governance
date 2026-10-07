@@ -64,7 +64,7 @@ Whether you are evaluating commercial data intelligence suites (such as *Microso
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars_Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[DataHub (LinkedIn)](https://github.com/datahub-project/datahub)** [![Stars](https://img.shields.io/github/stars/datahub-project/datahub?style=social&color=white)](https://github.com/datahub-project/datahub/stargazers)  
   **Extensible open-source metadata platform for data discovery**, Apache-2.0 licensed. **10K+ GitHub_Stars** — **the most comprehensive open-source data catalog** . **Metadata ingestion from 50+ sources** (Snowflake, BigQuery, PostgreSQL, Kafka, dbt, Looker) . **Real-time lineage, governance, and search** . **Enterprise open-source data marketplace foundation** . 🏢
