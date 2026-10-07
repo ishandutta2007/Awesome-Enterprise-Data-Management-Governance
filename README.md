@@ -64,52 +64,52 @@ Whether you are evaluating commercial data intelligence suites (such as *Microso
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[DataHub (LinkedIn)](https://github.com/datahub-project/datahub)** [![Stars](https://img.shields.io/github/stars/datahub-project/datahub?style=social&color=white)](https://github.com/datahub-project/datahub/stargazers)  
-  **Extensible open-source metadata platform for data discovery**, Apache-2.0 licensed. **10K+ GitHub stars** — **the most comprehensive open-source data catalog** . **Metadata ingestion from 50+ sources** (Snowflake, BigQuery, PostgreSQL, Kafka, dbt, Looker) . **Real-time lineage, governance, and search** . **Enterprise open-source data marketplace foundation** . 🏢
+  **Extensible open-source metadata platform for data discovery**, Apache-2.0 licensed. **10K+ GitHub_Stars** — **the most comprehensive open-source data catalog** . **Metadata ingestion from 50+ sources** (Snowflake, BigQuery, PostgreSQL, Kafka, dbt, Looker) . **Real-time lineage, governance, and search** . **Enterprise open-source data marketplace foundation** . 🏢
 
 - **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** [![Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers)  
-  **Unified metadata platform for data discovery and governance**, Apache-2.0 licensed. **15K+ GitHub stars** — **100+ connectors** for databases, dashboards, pipelines, and messaging . **Data lineage, quality, profiling, and access policy governance** in one clean dashboard . 📋
+  **Unified metadata platform for data discovery and governance**, Apache-2.0 licensed. **15K+ GitHub_Stars** — **100+ connectors** for databases, dashboards, pipelines, and messaging . **Data lineage, quality, profiling, and access policy governance** in one clean dashboard . 📋
 
 - **[CloudQuery](https://github.com/cloudquery/cloudquery)** [![Stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers)  
-  **Open-source cloud asset inventory and CSPM metadata engine**, MPL-2.0 licensed. **6.5K+ GitHub stars** — **Extracts multi-cloud configuration metadata into PostgreSQL/DuckDB** for custom SQL-based governance queries and security reporting . 📦
+  **Open-source cloud asset inventory and CSPM metadata engine**, MPL-2.0 licensed. **6.5K+ GitHub_Stars** — **Extracts multi-cloud configuration metadata into PostgreSQL/DuckDB** for custom SQL-based governance queries and security reporting . 📦
 
 - **[Apache Iceberg](https://github.com/apache/iceberg)** [![Stars](https://img.shields.io/github/stars/apache/iceberg?style=social&color=white)](https://github.com/apache/iceberg/stargazers)  
-  **High-performance open table format for massive analytic datasets**, Apache-2.0 licensed. **6.2K+ GitHub stars** — **Built-in catalog metadata, ACID transactions, time-travel, and schema evolution** . The standard for open lakehouse metadata management . 🧊
+  **High-performance open table format for massive analytic datasets**, Apache-2.0 licensed. **6.2K+ GitHub_Stars** — **Built-in catalog metadata, ACID transactions, time-travel, and schema evolution** . The standard for open lakehouse metadata management . 🧊
 
 - **[CKAN](https://github.com/ckan/ckan)** [![Stars](https://img.shields.io/github/stars/ckan/ckan?style=social&color=white)](https://github.com/ckan/ckan/stargazers)  
-  **Open-source data portal platform for open data publishing**, AGPL-3.0 licensed. **5.1K+ GitHub stars** — Powers **data.gov, data.gov.uk, and hundreds of public and enterprise portals** . Dataset cataloging, API generation, and geospatial search . 🌍
+  **Open-source data portal platform for open data publishing**, AGPL-3.0 licensed. **5.1K+ GitHub_Stars** — Powers **data.gov, data.gov.uk, and hundreds of public and enterprise portals** . Dataset cataloging, API generation, and geospatial search . 🌍
 
 - **[Apache Atlas](https://github.com/apache/atlas)** [![Stars](https://img.shields.io/github/stars/apache/atlas?style=social&color=white)](https://github.com/apache/atlas/stargazers)  
-  **Scalable metadata and governance framework**, Apache-2.0 licensed. **5.2K+ GitHub stars** — **De-facto standard open-source governance platform for Hadoop and enterprise data lakes** . **Native Apache Ranger integration** for fine-grained access control and lineage tracking . 🏛️
+  **Scalable metadata and governance framework**, Apache-2.0 licensed. **5.2K+ GitHub_Stars** — **De-facto standard open-source governance platform for Hadoop and enterprise data lakes** . **Native Apache Ranger integration** for fine-grained access control and lineage tracking . 🏛️
 
 - **[Amundsen (Lyft)](https://github.com/amundsen-io/amundsen)** [![Stars](https://img.shields.io/github/stars/amundsen-io/amundsen?style=social&color=white)](https://github.com/amundsen-io/amundsen/stargazers)  
-  **Data discovery and metadata search engine**, Apache-2.0 licensed. **4.8K+ GitHub stars** — Uses **Neo4j/Atlas graph for relationship mapping** . **Powers data discovery at Lyft, ING, and Square** . 🔍
+  **Data discovery and metadata search engine**, Apache-2.0 licensed. **4.8K+ GitHub_Stars** — Uses **Neo4j/Atlas graph for relationship mapping** . **Powers data discovery at Lyft, ING, and Square** . 🔍
 
 - **[Apache Ranger](https://github.com/apache/ranger)** [![Stars](https://img.shields.io/github/stars/apache/ranger?style=social&color=white)](https://github.com/apache/ranger/stargazers)  
-  **Centralized data security and authorization framework**, Apache-2.0 licensed. **3.5K+ GitHub stars** — **Fine-grained access control** across HDFS, Hive, HBase, Kafka, Trino, and Spark with centralized auditing . 🛡️
+  **Centralized data security and authorization framework**, Apache-2.0 licensed. **3.5K+ GitHub_Stars** — **Fine-grained access control** across HDFS, Hive, HBase, Kafka, Trino, and Spark with centralized auditing . 🛡️
 
 - **[Marquez (WeWork)](https://github.com/MarquezProject/marquez)** [![Stars](https://img.shields.io/github/stars/MarquezProject/marquez?style=social&color=white)](https://github.com/MarquezProject/marquez/stargazers)  
-  **Open-source metadata service for data lineage**, Apache-2.0 licensed. **2.1K+ GitHub stars** — **Collects, aggregates, and visualizes complex pipeline lineage** . Reference implementation for the OpenLineage standard . 🔗
+  **Open-source metadata service for data lineage**, Apache-2.0 licensed. **2.1K+ GitHub_Stars** — **Collects, aggregates, and visualizes complex pipeline lineage** . Reference implementation for the OpenLineage standard . 🔗
 
 - **[OpenLineage](https://github.com/OpenLineage/OpenLineage)** [![Stars](https://img.shields.io/github/stars/OpenLineage/OpenLineage?style=social&color=white)](https://github.com/OpenLineage/OpenLineage/stargazers)  
-  **Vendor-neutral spec for data lineage collection**, Apache-2.0 licensed. **2.0K+ GitHub stars** — Integrates seamlessly with **Spark, Airflow, dbt, Great Expectations, and Flink** for continuous operational observability . 📊
+  **Vendor-neutral spec for data lineage collection**, Apache-2.0 licensed. **2.0K+ GitHub_Stars** — Integrates seamlessly with **Spark, Airflow, dbt, Great Expectations, and Flink** for continuous operational observability . 📊
 
 - **[Project Nessie](https://github.com/projectnessie/nessie)** [![Stars](https://img.shields.io/github/stars/projectnessie/nessie?style=social&color=white)](https://github.com/projectnessie/nessie/stargazers)  
-  **Git-like catalog for Data Lakes**, Apache-2.0 licensed. **1.8K+ GitHub stars** — Enables **branching, committing, and tagging for Apache Iceberg and Delta Lake tables** . 🌿
+  **Git-like catalog for Data Lakes**, Apache-2.0 licensed. **1.8K+ GitHub_Stars** — Enables **branching, committing, and tagging for Apache Iceberg and Delta Lake tables** . 🌿
 
 - **[Magda](https://github.com/magda-io/magda)** [![Stars](https://img.shields.io/github/stars/magda-io/magda?style=social&color=white)](https://github.com/magda-io/magda/stargazers)  
-  **Federated open-source data catalog**, Apache-2.0 licensed. **1.4K+ GitHub stars** — **Automatic metadata harvesting** across federal, state, and enterprise data repositories . 🏛️
+  **Federated open-source data catalog**, Apache-2.0 licensed. **1.4K+ GitHub_Stars** — **Automatic metadata harvesting** across federal, state, and enterprise data repositories . 🏛️
 
 - **[Acryl DataHub Cloud](https://github.com/acryldata/datahub)** [![Stars](https://img.shields.io/github/stars/acryldata/datahub?style=social&color=white)](https://github.com/acryldata/datahub/stargazers)  
-  **Managed cloud distribution of DataHub**, Apache-2.0 licensed. **1.2K+ GitHub stars** — Automated ingestion, managed SLAs, and enterprise support for DataHub . ☁️
+  **Managed cloud distribution of DataHub**, Apache-2.0 licensed. **1.2K+ GitHub_Stars** — Automated ingestion, managed SLAs, and enterprise support for DataHub . ☁️
 
 - **[Teradata Kylo](https://github.com/Teradata/kylo)** [![Stars](https://img.shields.io/github/stars/Teradata/kylo?style=social&color=white)](https://github.com/Teradata/kylo/stargazers)  
-  **Enterprise data lake management platform**, Apache-2.0 licensed. **1.1K+ GitHub stars** — Data ingestion pipelines, self-service data preparation, and metadata governance on Spark & NiFi . 🎯
+  **Enterprise data lake management platform**, Apache-2.0 licensed. **1.1K+ GitHub_Stars** — Data ingestion pipelines, self-service data preparation, and metadata governance on Spark & NiFi . 🎯
 
 - **[ODD Platform (OpenDataDiscovery)](https://github.com/opendatadiscovery/odd-platform)** [![Stars](https://img.shields.io/github/stars/opendatadiscovery/odd-platform?style=social&color=white)](https://github.com/opendatadiscovery/odd-platform/stargazers)  
-  **Open-source data discovery & observability platform**, Apache-2.0 licensed. **1.0K+ GitHub stars** — Microservice architecture for data quality, lineage tracking, and dataset classification . 🔍
+  **Open-source data discovery & observability platform**, Apache-2.0 licensed. **1.0K+ GitHub_Stars** — Microservice architecture for data quality, lineage tracking, and dataset classification . 🔍
 
 ---
 
@@ -119,7 +119,7 @@ Contributions are welcome! Follow these steps to submit new enterprise data mana
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
